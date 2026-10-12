@@ -1,0 +1,7 @@
+{
+  "name": "monitor-incendios-cusco",
+  "version": "1.0.0",
+  "description": "Análisis satelital de severidad de incendios forestales en Cusco (Sentinel-2 dNBR, NASA FIRMS, GBIF)",
+  "private": true,
+  "scripts": { "start": "node server.js" }
+}
